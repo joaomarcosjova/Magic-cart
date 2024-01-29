@@ -1,4 +1,4 @@
-# Magic Cart To-Do App
+# Magic Cart To-Do App (DEMO: https://marcos-to-do.netlify.app/)
 
 ![mobile](https://github.com/joaomarcosjova/Magic-cart/assets/89745621/f9cfbc53-2da3-4a46-a65e-f31eb9c5144a)
 ![mobile-onboard](https://github.com/joaomarcosjova/Magic-cart/assets/89745621/927baf5e-f1db-412b-8c79-61c57d092ae4)
