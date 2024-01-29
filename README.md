@@ -1,9 +1,9 @@
 # Magic Cart To-Do App
 
-![Alt text](mobile-1.gif)
-![Alt text](mobile-onboard-1.png) 
-![Alt text](mobile-main-2.png) 
-![Alt text](mobile-main-1-1.png) 
+![mobile](https://github.com/joaomarcosjova/Magic-cart/assets/89745621/f9cfbc53-2da3-4a46-a65e-f31eb9c5144a)
+![mobile-onboard](https://github.com/joaomarcosjova/Magic-cart/assets/89745621/927baf5e-f1db-412b-8c79-61c57d092ae4)
+![mobile-main](https://github.com/joaomarcosjova/Magic-cart/assets/89745621/cb4a5333-5f11-4a89-a4a3-2a18589c5892)
+
 
 ## Overview
 
